@@ -207,5 +207,6 @@ cout<<"index=="<<ll.search(3)<<endl;
 //want to become waht is this okay to you
 ll.printdll();
 //this is not fare
+//this is now fine by me
 return 0;
 }
