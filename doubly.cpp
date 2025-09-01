@@ -203,6 +203,7 @@ ll.insert(0 , 3999);
 ll.deletebyval(3);
 cout<<"\n";
 cout<<"index=="<<ll.search(3)<<endl;
-
+//this is not good my boy 
+//want to become waht is this okay to you
 ll.printdll();
 }
