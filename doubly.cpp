@@ -205,4 +205,6 @@ cout<<"\n";
 cout<<"index=="<<ll.search(3)<<endl;
 
 ll.printdll();
+//this is not fare
+return 0;
 }
