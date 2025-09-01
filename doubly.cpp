@@ -206,4 +206,6 @@ cout<<"index=="<<ll.search(3)<<endl;
 //this is not good my boy 
 //want to become waht is this okay to you
 ll.printdll();
+//this is not fare
+return 0;
 }
