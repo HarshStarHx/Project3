@@ -206,6 +206,13 @@ cout<<"index=="<<ll.search(3)<<endl;
 //this is not good my boy 
 //want to become waht is this okay to you
 ll.printdll();
-//this changes in main
 
+//this changes in main
+return 0;
 }
+
+//this is not fare
+//this is now fine by me
+
+// this is new in the rebase 
+
